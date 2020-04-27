@@ -7,7 +7,7 @@ First Step is to Download this repository onto your Computer.
 You need to install two libraries in order to get the application functioning.  Open the terminal then copy and paste the following commands one at a time.  
 
 ```
-cd ~/Downloads/ReadReceipts
+cd ~/Downloads/ReadReceipts-master
 pip3 install telethon
 pip3 install paho-mqtt
 
@@ -51,6 +51,6 @@ The program will start, and ask you to authenticate. You will enter your phone n
 
 You can now head to
 
-https://yourreadreceipts.herokuapp.com/my_user_id  
+http://54.204.183.201:3000/myuserid
 
 To activate the app!  Make sure you replace "my_user_id" with your actual telegram id!
